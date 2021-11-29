@@ -1,3 +1,22 @@
+# Checks & Cities
+
+A salary comparison dashboard and analysis into cost of living and salary data.
+
+## Project Overview
+
+### Motivation
+
+As we look ahead to our professional lives post-graduation, many of us will be searching for our first jobs. This process can be both incredibly exciting yet nerve-wracking fraught with many considerations such as:
+
+- What is the average salary offered to someone in my industry?
+- Can I afford rent in New York City on my salary?
+- What is the cost of living in New Orleans?
+- Does it make financial sense for me to move back to sunny Southern California?
+
+For those fortunate enough to have the opportunity to decide on competing offers in different cities, being able to easily and comprehsively compare how far your salary in one city will go given the averae cost of living versus another city is vital information to making an importtant life decision. To this end, the motivation of our project is to create an interface to input salary offers and cities and comprehensively compare the offers in the form of summary statistics and visualizations.
+
+Checks & Cities allows the user to easily compare salaries and cost of living across different cities in a single interfact without the need of searching on Glassdoor, LinkedIn, Zillow, and Yelp separately. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nonajiang/260-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
