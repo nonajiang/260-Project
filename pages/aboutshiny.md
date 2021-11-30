@@ -11,7 +11,7 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ### Congratulations!
 
-![](Checks-and-Cities/avatar/Graduation.jpeg)
+![](/avatar/Graduation.jpeg)
 
 You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental anguish experienced while fighting with R Studio on a daily basis (why won't it knit?!) have all finally paid off. You have just graduated with your Master's in Biostatistics, and you are feeling pretty darn good about yourself. Now that this chapter of your life has come to a close...now what?
 
@@ -24,21 +24,21 @@ You are thrilled to have two great job offers with fairly similar starting salar
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
 First, let's look at Boston
-![Boston skyline can't be beat from Seaport](Checks-and-Cities/avatar/Boston.jpeg)
+![Boston skyline can't be beat from Seaport](/avatar/Boston.jpeg)
 
-![](Checks-and-Cities/avatar/BostonAvgSalary.png)
+![](/avatar/BostonAvgSalary.png)
 
 Now, let's look at Pheonix
 
-![](Checks-and-Cities/avatar/PheonixAvgSalary.png)
+![](/avatar/PheonixAvgSalary.png)
 
 ![But I mean can you really pass up this view?](/avatar/Arizona.jpeg)
 
-![](Checks-and-Cities/avatar/PheonixAvgSalary.png)
+![](/avatar/PheonixAvgSalary.png)
 
 ### Will this be enough to live off of?
 
-![](Checks-and-Cities/avatar/BostonPheonixComparison.png)
+![](/avatar/BostonPheonixComparison.png)
 
 ### To move or not to move? That is the question...
 
