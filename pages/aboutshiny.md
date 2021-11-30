@@ -13,7 +13,7 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ![](/avatar/Graduation.jpeg)
 
-You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio on a daily basis (why won't it knit?!) have all finally paid off. You have just graduated with your Master's in Biostatistics, and you are feeling pretty darn good about yourself. Now that this chapter of your life has come to a close...now what?
+You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental anguish experienced while fighting with R Studio on a daily basis (why won't it knit?!) have all finally paid off. You have just graduated with your Master's in Biostatistics, and you are feeling pretty darn good about yourself. Now that this chapter of your life has come to a close...now what?
 
 Being the stellar student you are, you have in hand not one but two job offers as a statistician. Your first offer is for a start-up here in Boston with a salary of $90,000. The other offer is at a company back where you are from in Pheonix, Arizona with a salary of $80,000.
 
