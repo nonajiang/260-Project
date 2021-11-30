@@ -11,7 +11,7 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ## Congratulations!
 
-![](/avatar/Graduation.jpeg)
+![](/avatar/Graduation.jpeg){width=50%}
 
 You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio on a daily basis (why won't it knit?!) have finally all paid off. You have just graduated with your Master's in Biostatistics! So...now what?
 
@@ -30,7 +30,7 @@ First, let's look at Boston
 
 Now, let's look at Pheonix
 
-![But I mean can you really pass up this view?](/avatar/Pheonix.jpeg)
+![But I mean can you really pass up this view?](/avatar/Arizona.jpeg)
 
 ![](/avatar/PheonixAvgSalary.png)
 
