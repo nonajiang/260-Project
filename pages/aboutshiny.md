@@ -24,7 +24,7 @@ You are thrilled to have two great job offers with fairly similar starting salar
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
 First, let's look at Boston
-![Boston skyline can't be beat from Seaport](/avatar/Boston.jpeg)
+![Boston skyline can't be beat from Seaport](/Boston.jpeg)
 
 ![](/BostonAvgSalary.png)
 
@@ -32,7 +32,7 @@ Now, let's look at Pheonix
 
 ![](/PheonixAvgSalary.png)
 
-![But I mean can you really pass up this view?](/avatar/Arizona.jpeg)
+![But I mean can you really pass up this view?](/Arizona.jpeg)
 
 ![](/PheonixAvgSalary.png)
 
