@@ -1,4 +1,4 @@
-## Checks /& Cities
+## Checks & Cities
 
 ## Project Overview
 
@@ -22,10 +22,8 @@ The primary objectives of our project are two-fold:
 2. To include [visualizations](https://nonajiang.github.io/Checks-and-Cities/pages/vis.html) and analyses that will help to assess the salaries needed for the cost of living across our 50 cities
  
 ### Approach
-We plan to do some web-scraping to extract the cost of living data, followed by some data cleaning and string processing to clean the cost of living dataset and wages dataset before merging them together. We are then going to perform regression analyses and do several graphs and visuals to help answer our questions. 
-We then put this data together in a shiny dashboard. 
+We first conduced some web-scraping to extract the cost of living data, followed by some data cleaning and string processing to clean the cost of living dataset and wages dataset before merging them together. We then going to performed regression analyses and do several graphs and visuals to help answer our questions of what variables predict cost of an apartment and salary. Finally, we then put this data together in a user-friendly shiny dashboard.
 
-You can use the [editor on GitHub](https://github.com/nonajiang/260-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
