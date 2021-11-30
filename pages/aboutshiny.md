@@ -11,7 +11,7 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ## Congratulations!
 
-![](/avatar/Graduation.jpeg)
+![](/avatar/Graduation.jpg)
 
 You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio (why won't it knit?!) have finally paid off. You have just graduated with your Master's in Biostatistics! So...now what?
 
@@ -24,11 +24,13 @@ You have two great job offers with fairly similar starting salaries though in ve
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
 First, let's look at Boston
-![The view of the Boston skyline from Seaport](/avatar/Boston.jpeg)
+![Boston skyline can't be beat from Seaport](/avatar/Boston.jpeg)
 
 ![](/avatar/BostonAvgSalary.png)
 
 Now, let's look at Pheonix
+
+![But I mean can you really pass up this view?](/avatar/Pheonix.jpeg)
 
 ![](/avatar/PheonixAvgSalary.png)
 
