@@ -1,27 +1,39 @@
 ---
 layout: page
 title: About
-tagline: Walkthrough the Shiny App
 sitetime: display
 permalink: /aboutshiny.html
 ---
 
-## About the Shiny App
+## Let's Use this App
 
 This page offers a step-by-step walkthrough of how to use our dashboard. Suppose you are a recent graduate searching for your dream job and follow along!
 
 ## Congratulations!
 
-You did it! The long nights in the library, the sleepless nights cramming epidemiology formulas, and the countless hours spent on group projects have finally paid off. So...now what?
+![](/avatar/Graduation.jpeg)
 
-You have just graduated with your Master's in Biostatistics and in hand you have not one - but TWO job offers as a Statistician. One offer is for a start-up here in Boston starting at $75,000. The other is for a company in Pheonix, Arizona starting at $80,000. You have two great jobs with fairly similar starting salaries though in very different locations.
+You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio (why won't it knit?!) have finally paid off. You have just graduated with your Master's in Biostatistics! So...now what?
 
-Let's take a look to see how the Checks & Cities dashboard can help navigate your job decision-making.
+Being the stellar student you are, you have in hand not one but TWO job offers as a statistician. Your first offer is for a start-up here in Boston with a salary of $90,000. The other offer is at a company back where you are from in Pheonix, Arizona with a salary of $80,000.
 
-## How does my salary offer compare to others?
+You have two great job offers with fairly similar starting salaries though in very different locations. Let's take a look to see how the Checks & Cities dashboard can help you decide which job to accept!
 
-## Is this enough to live off of?
+## How does my salary offer compare to others in the same city?
 
-## Will I have enough money for fun?
+Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
-## Should I move to Arizona or stay in Boston?
+First, let's look at Boston
+![The view of the Boston skyline from Seaport](/avatar/Boston.jpeg)
+
+![](/avatar/BostonAvgSalary.png)
+
+Now, let's look at Pheonix
+
+![](/avatar/PheonixAvgSalary.png)
+
+## Will this be enough to live off of? Will I have enough money for fun? Will I be able to save?
+
+![](/avatar/BostonPheonixComparison.png)
+
+## Should I move back to Arizona or stay in Boston?
