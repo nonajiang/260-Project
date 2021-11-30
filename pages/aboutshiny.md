@@ -30,6 +30,8 @@ First, let's look at Boston
 
 Now, let's look at Pheonix
 
+![](/avatar/PheonixAvgSalary.png)
+
 ![But I mean can you really pass up this view?](/avatar/Arizona.jpeg)
 
 ![](/avatar/PheonixAvgSalary.png)
@@ -40,6 +42,6 @@ Now, let's look at Pheonix
 
 # To move or not to move? That is the question...
 
-While your Boston job pays a higher salary, it is clear that the cost of living is lower in Pheonix and that your salary will go farther in Pheonix. After extensive conversations with your advisors, it appears both job opportunities are great and will open doors. This in conjunction with the proximity to your family and the higher discretionary income youwould have (which you learned about from the dashboard!), you ultimately decide to make the trek back across the country to Pheonix where you can enjoy warmer weather, incredible hiking, and frequent weekend getaways to Sedona (with all your discretionary income ;))!
+While your Boston job pays a higher salary, it is clear that the cost of living is lower in Pheonix and that your salary will go farther in Pheonix. After extensive conversations with your advisors, it appears both job opportunities are great and will open doors. This in conjunction with the proximity to your family and the higher discretionary income youwould have (which you learned about from the dashboard!), you ultimately decide to make the trek back across the country to Pheonix where you can enjoy warmer weather, incredible hiking, and frequent weekend getaways to Sedona - with all your discretionary income (:
 
-![Actual footage of the author in Sedona](/avatar/Sedona.jpg)
+![Actual footage of the author enjoying life in Sedona](/avatar/Sedona.jpg)
