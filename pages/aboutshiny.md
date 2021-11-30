@@ -26,24 +26,25 @@ You are thrilled to have two great job offers with fairly similar starting salar
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
 First, let's look at Boston
-![Boston skyline can't be beat from Seaport](/Boston.jpeg){:width="200"}
 
-![](/BostonAvgSalary.png){:width="200"}
+![Boston skyline can't be beat from Seaport](/Boston.jpeg){:width="500"}
+
+![](/BostonAvgSalary.png){:width="500"}
 
 Now, let's look at Pheonix
 
-![](/PheonixAvgSalary.png){:width="200"}
+![](/PheonixAvgSalary.png){:width="500"}
 
-![But I mean can you really pass up this view?](/Arizona.jpeg){:width="200"}
+![But I mean can you really pass up this view?](/Arizona.jpeg){:width="500"}
 
-![](/PheonixAvgSalary.png){:width="200"}
+![](/PheonixAvgSalary.png){:width="500"}
 
 ### Will this be enough to live off of?
 
-![](/BostonPheonixComparison.png){:width="200"}
+![](/BostonPheonixComparison.png){:width="500"}
 
 ### To move or not to move? That is the question...
 
 While your Boston job pays a higher salary, it is clear that the cost of living is lower in Pheonix and that your salary will go farther in Pheonix. After extensive conversations with your advisors, it appears both job opportunities are great and will open doors. This in conjunction with the proximity to your family and the higher discretionary income you would have (which you learned about from the dashboard!), you ultimately decide to make the trek back across the country to Pheonix. You are excited to start your new job as a statistician while enjoyin warmer weather, incredible hiking, and frequent weekend getaways to Sedona - with all your discretionary income :)
 
-![Actual footage of the author enjoying life in Sedona](pages/Sedona.jpg)
+![Actual footage of the author enjoying life in Sedona](pages/Sedona.jpg){:width="200"}
