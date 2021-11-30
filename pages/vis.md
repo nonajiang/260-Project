@@ -7,3 +7,10 @@ permalink: /vis.html
 ---
 
 ## Visualizations and Analyses
+
+# Regression Analyses
+
+Variables predicting apartment
+Variables predicting salary
+
+# Word Cloud
