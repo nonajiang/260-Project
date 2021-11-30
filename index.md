@@ -16,8 +16,8 @@ To help users pick the best job offer for them, we created an interface that wil
 
 The primary objectives of our project are two-fold:
 
-1. To put together salary data for various job titles in 50 US cities and include the important cost of living measures (apartment costs, meal costs, utilities, etc.) in a Shiny App
-2. To include visualizations and analyses that will help to assess the salaries needed for the cost of living across our 50 cities
+1. To put together salary data for various job titles in 50 US cities and include the important cost of living measures (apartment costs, meal costs, utilities, etc.) in a [Shiny App](https://nonajiang.github.io/Checks-and-Cities/shiny.html)
+2. To include [visualizations](https://nonajiang.github.io/Checks-and-Cities/pages/vis.html) and analyses that will help to assess the salaries needed for the cost of living across our 50 cities
  
 ### Approach
 We plan to do some web-scraping to extract the cost of living data, followed by some data cleaning and string processing to clean the cost of living dataset and wages dataset before merging them together. We are then going to perform regression analyses and do several graphs and visuals to help answer our questions. 
