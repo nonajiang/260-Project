@@ -14,7 +14,7 @@ As we look ahead to our professional lives post-graduation, many of us will be s
 
 All these variables can be overwhelming and for those fortunate to have competing job offers in different cities, synthesizing all the relevant data to be able to make this important life decision can be just plain paralyzing. While information on salary and cost of living is available online through existing sites, there does not exist a single interface that combines these data.
 
-To help users pick the best job offer for them, we created an interface that will allow job searchers to be able to easily compare salaries and cost of living across different cities. Using our [dashboard](https://nonajiang.github.io/Checks-and-Cities/shiny.html), job searchers will be able to comprehensively compare their job offers and aid them to make some of their most important career decisions - all with just a few clicks!
+To help users pick the best job offer for them, we created an interface that will allow job searchers to be able to easily compare salaries and cost of living across different cities. Using our [dashboard](https://nonajiang.github.io/Checks-and-Cities/shiny.html), job searchers will be able to comprehensively compare their job offers to help hem to make important career decisions - all with just a few clicks!
 
 ### Objectives
 
