@@ -11,7 +11,9 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ### Congratulations!
 
-![](/Graduation.jpeg){:width="200"}
+<center>
+![](/Graduation.jpeg){:width="500"}
+  </center>
 
 You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental anguish experienced while fighting with R Studio on a daily basis have all finally paid off. You have just graduated with your Master's in Biostatistics, and you are feeling pretty darn good about yourself. Now that this chapter of your life has come to a close...now what?
 
