@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Contact
 tagline: My friends.
 permalink: /links.html
 ---
