@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: How To
 sitetime: display
 permalink: /aboutshiny.html
 ---
