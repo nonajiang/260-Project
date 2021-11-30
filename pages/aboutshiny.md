@@ -11,7 +11,7 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ### Congratulations!
 
-![](/Graduation.jpeg){:width=30%}
+![](/Graduation.jpeg){:width="200"}
 
 You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental anguish experienced while fighting with R Studio on a daily basis have all finally paid off. You have just graduated with your Master's in Biostatistics, and you are feeling pretty darn good about yourself. Now that this chapter of your life has come to a close...now what?
 
@@ -24,21 +24,21 @@ You are thrilled to have two great job offers with fairly similar starting salar
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
 First, let's look at Boston
-![Boston skyline can't be beat from Seaport](/Boston.jpeg)
+![Boston skyline can't be beat from Seaport](/Boston.jpeg){:width="200"}
 
-![](/BostonAvgSalary.png)
+![](/BostonAvgSalary.png){:width="200"}
 
 Now, let's look at Pheonix
 
-![](/PheonixAvgSalary.png)
+![](/PheonixAvgSalary.png){:width="200"}
 
-![But I mean can you really pass up this view?](/Arizona.jpeg)
+![But I mean can you really pass up this view?](/Arizona.jpeg){:width="200"}
 
-![](/PheonixAvgSalary.png)
+![](/PheonixAvgSalary.png){:width="200"}
 
 ### Will this be enough to live off of?
 
-![](/BostonPheonixComparison.png)
+![](/BostonPheonixComparison.png){:width="200"}
 
 ### To move or not to move? That is the question...
 
