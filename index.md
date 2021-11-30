@@ -1,4 +1,4 @@
-## Checks and Cities
+# Checks and Cities
 
 ## Project Overview
 
