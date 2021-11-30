@@ -25,14 +25,3 @@ The primary objectives of our project are two-fold:
  
 ### Approach
 We first conduced some web-scraping to extract the cost of living data, followed by some data cleaning and string processing to clean the cost of living dataset and wages dataset before merging them together. We then going to performed regression analyses and do several graphs and visuals to help answer our questions of what variables predict cost of an apartment and salary. Finally, we then put this data together in a user-friendly shiny dashboard.
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nonajiang/260-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
