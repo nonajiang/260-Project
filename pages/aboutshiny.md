@@ -9,7 +9,7 @@ permalink: /aboutshiny.html
 
 This page offers a step-by-step walkthrough of how to use our dashboard. Suppose you are a recent graduate searching for your dream job and follow along!
 
-## Congratulations!
+### Congratulations!
 
 ![](Checks-and-Cities/avatar/Graduation.jpeg)
 
@@ -19,7 +19,7 @@ Being the stellar student you are, you have in hand not one but two job offers a
 
 You are thrilled to have two great job offers with fairly similar starting salaries albeit in very different locations. Let's take a look to see how the Checks & Cities dashboard can help you decide which job to accept!
 
-## How does my salary offer compare to others in the same city?
+### How does my salary offer compare to others in the same city?
 
 Let's take a look at how the salaries you are offered compare with the average salary across all professions in each given city.
 
@@ -36,11 +36,11 @@ Now, let's look at Pheonix
 
 ![](Checks-and-Cities/avatar/PheonixAvgSalary.png)
 
-## Will this be enough to live off of?
+### Will this be enough to live off of?
 
 ![](Checks-and-Cities/avatar/BostonPheonixComparison.png)
 
-# To move or not to move? That is the question...
+### To move or not to move? That is the question...
 
 While your Boston job pays a higher salary, it is clear that the cost of living is lower in Pheonix and that your salary will go farther in Pheonix. After extensive conversations with your advisors, it appears both job opportunities are great and will open doors. This in conjunction with the proximity to your family and the higher discretionary income youwould have (which you learned about from the dashboard!), you ultimately decide to make the trek back across the country to Pheonix where you can enjoy warmer weather, incredible hiking, and frequent weekend getaways to Sedona - with all your discretionary income (:
 
