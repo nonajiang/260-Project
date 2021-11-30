@@ -22,12 +22,14 @@
     {% endif %}
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    
+      <link rel="shortcut icon" href="https://{{ site.url }}{{ site.baseurl }}/favicon.png">
 
     {% if site.gems contains "jekyll-feed" %}
       <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
     {% endif %}
     <meta name="keywords" itemprop="keywords" content="{{ site.keywords | escape }}">
-    <link rel="shortcut icon" sizes="128x128" href="https://{{ site.url }}{{ site.baseurl }}/avatar/favicon.png">
+    <link rel="shortcut icon" sizes="128x128" href="https://{{ site.url }}{{ site.baseurl }}/ChecksandCities.tif">
     <meta name="robots" content="noarchive">
 
    {% comment %}
