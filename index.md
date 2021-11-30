@@ -1,5 +1,7 @@
 # Checks and Cities
 
+![](/ChecksandCities.tif)
+
 ## Project Overview
 
 ### Motivation
