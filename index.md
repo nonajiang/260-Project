@@ -1,6 +1,6 @@
 # Checks and Cities
 
-![](/ChecksandCities.tif)
+![](/ChecksandCities.jpg)
 
 ## Project Overview
 
