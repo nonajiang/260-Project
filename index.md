@@ -1,6 +1,6 @@
 # Checks and Cities
 
-![](/avatar/ChecksandCitiesCrop.jpg)
+![](/avatar/ChecksandCitiesCrop.jpg) {width=80%, height=80%}
 
 ## Project Overview
 
