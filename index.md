@@ -6,18 +6,26 @@ A salary comparison dashboard and analysis into cost of living and salary data.
 
 ### Motivation
 
-As we look ahead to our professional lives post-graduation, many of us will be searching for our first jobs. This process can be both incredibly exciting yet nerve-wracking fraught with many considerations such as:
+As we look ahead to our professional lives post-graduation, many of us will be searching for our very first jobs. This process can be both incredibly exciting yet nerve-wracking and fraught with many considerations such as:
 
 - What is the average salary offered to someone in my industry?
-- Can I afford rent in New York City on my salary?
-- What is the cost of living in New Orleans?
+- Will I be able afford rent in New York City on my salary?
 - Does it make financial sense for me to move back to sunny Southern California?
 
-For those fortunate enough to have the opportunity to decide on competing offers in different cities, being able to easily and comprehsively compare how far your salary in one city will go given the averae cost of living versus another city is vital information to making an importtant life decision. To this end, the motivation of our project is to create an interface to input salary offers and cities and comprehensively compare the offers in the form of summary statistics and visualizations.
+For those fortunate to have competing job offers in different cities, being able to easily and comprehensively compare how far one's salary in one city will go versus another is vital information needed to decide which offer to take. While information on salary and cost of living is available online through sites such as Glassdoor, Payscale, LinkedIn, Zillow, and Yelp, there does not exist a single interface that combines these data.
 
-Checks & Cities allows the user to easily compare salaries and cost of living across different cities in a single interfact without the need of searching on Glassdoor, LinkedIn, Zillow, and Yelp separately. 
+To these ends, the motivation of our project is to create an interface that will allow job searchers, with just several clicks, to be able to easily compare salaries and cost of living across different cities. Using our dashboard, Checks & Cities, job searchers will be able to comprehensively compare their offers in the form of summary statistics and visualizations to aid them to make important career and life decisions. Our goal is to make it easier for people to choose the “best” job offer.
 
-## Welcome to GitHub Pages
+### Objectives
+
+The primary objectives of our project is two-fold:
+
+1. To put together salary data for various job titles in 50 US cities and include the important cost of living measures (apartment costs, meal costs, utilities, etc.) in a Shiny App
+2. To include visualizations and analyses that will help to assess the salaries needed for the cost of living across our 50 cities
+ 
+### Approach
+We plan to do some web-scraping to extract the cost of living data, followed by some data cleaning and string processing to clean the cost of living dataset and wages dataset before merging them together. We are then going to perform regression analyses and do several graphs and visuals to help answer our questions. 
+We then put this data together in a shiny dashboard. 
 
 You can use the [editor on GitHub](https://github.com/nonajiang/260-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
