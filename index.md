@@ -1,6 +1,6 @@
 # Checks and Cities
 
-![](/ChecksandCities.jpg)
+![](/avatar/ChecksandCitiesCrop.jpg)
 
 ## Project Overview
 
