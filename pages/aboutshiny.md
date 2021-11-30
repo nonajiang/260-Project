@@ -11,13 +11,13 @@ This page offers a step-by-step walkthrough of how to use our dashboard. Suppose
 
 ## Congratulations!
 
-![](/avatar/Graduation.jpg)
+![](/avatar/Graduation.jpeg)
 
-You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio (why won't it knit?!) have finally paid off. You have just graduated with your Master's in Biostatistics! So...now what?
+You did it! The sleepless nights in the library cramming epidemiology formulas, the countless hours spent poring over probability homework, and the mental energy expended fighting with R Studio on a daily basis (why won't it knit?!) have finally all paid off. You have just graduated with your Master's in Biostatistics! So...now what?
 
-Being the stellar student you are, you have in hand not one but TWO job offers as a statistician. Your first offer is for a start-up here in Boston with a salary of $90,000. The other offer is at a company back where you are from in Pheonix, Arizona with a salary of $80,000.
+Being the stellar student you are, you have in hand not one but two job offers as a statistician. Your first offer is for a start-up here in Boston with a salary of $90,000. The other offer is at a company back where you are from in Pheonix, Arizona with a salary of $80,000.
 
-You have two great job offers with fairly similar starting salaries though in very different locations. Let's take a look to see how the Checks & Cities dashboard can help you decide which job to accept!
+You are thrilled to have two great job offers with fairly similar starting salaries though in very different locations but feel conflicted about which job to take. Let's take a look to see how the Checks & Cities dashboard can help you decide which job to accept!
 
 ## How does my salary offer compare to others in the same city?
 
