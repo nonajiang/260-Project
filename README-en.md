@@ -1,4 +1,5 @@
-# Hydrogen
+# GitHub
+
 Lightweight and clean
 
 Follow her footsteps and start your blog journey.
