@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Visualize
-tagline: Visualizations and Analyses
 sitetime: display
 permalink: /vis.html
 ---
 
-## Visualizations and Analyses
+## Visualizations
 
-We took the liberty of conducting several analyses and create visualizations to help users with their job search.
+We conducted several analyses and create visualizations to help users with their job search.
 
 ### How does average salary relate with average living expenses in each city?
 
