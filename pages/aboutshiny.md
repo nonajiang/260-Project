@@ -27,25 +27,22 @@ First, let's take look at Boston:
 
 ![Beautiful Boston skyline from Seaport](/Boston.jpeg){:width="500"}
 
-![](/BostonAvgSalary.png){:width="500"}
+![](/BostonAvgSalary.png){:width="700"}
 
 You learn that the average salary across all professions in Boston $73,850. Your offer is looking not too shabby!
 
 Now, let's take look at Phoenix:
-
-![](/PhoenixAvgSalary.png){:width="500"}
-
-Looks like the average salary across all professions in Phoenix is $54,870, which is noticeably less than Boston - perhaps your salary can go a little further here?
-
 ![But I mean can you really pass up this view?](/Arizona.jpeg){:width="500"}
 
-![](/PheonixAvgSalary.png){:width="500"}
+![](/PhoenixAvgSalary.png){:width="700"}
+
+Looks like the average salary across all professions in Phoenix is $54,870, which is noticeably less than Boston - perhaps your salary can go a little further here?
 
 ### How does my offer compare to other statisticians?
 
 To see how your salary compares with the average salary in your ocupation of interest, you can easily use the second tab of the dashboard.
 
-![](/StatsComparison.png){:width="500"}
+![](/StatsComparison.png){:width="700"}
 
 You see that the average salary of a statistician in Boston is $118,900 and that the average salary of a statistician in Phoenix is $96,560
 
@@ -53,7 +50,7 @@ You see that the average salary of a statistician in Boston is $118,900 and that
 
 To look into the average cost of living in each city and to compare both offers, you can easily do this on the third tab of the dashboard. By simply inputting your salary offers and the cities each are in, several plots are generated.
 
-![](/BostonPheonixComparison.png){:width="500"}
+![](/BostonPheonixComparison.png){:width="700"}
 
 The first plot compares the average monthly expenses in each city. The app calculates the average cost of living in the city of interest which is defined as the sum of: 
 
