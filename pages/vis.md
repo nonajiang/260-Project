@@ -12,7 +12,7 @@ We took the liberty of conducting several analyses and create visualizations to 
 
 ### How does average salary relate with average living expenses in each city?
 
-![](/SalaryvExpenses.png)
+![](/SalaryvExpenses.png){:width="500"}
 
 The plot shows a relationship that did not surprise us: the higher the living expenses, the higher the salary. This plot could be useful
 
