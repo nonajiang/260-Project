@@ -57,13 +57,10 @@ To look into the average cost of living in each city and to compare both offers,
 
 The first plot compares the average monthly expenses in each city. The app calculates the average cost of living in the city of interest which is defined as the sum of: 
 
-    a) 16 inexpensive meals at restaurants (because the average American eats out 4 times a week)
-  
-    b) apartment cost in city center for one bedroom
-  
-    c) basic utilities such as electricity, cooling, water, garbage for 915 sq ft apartment
-  
-    d) internet (speed 60 mbps or more)
+- 16 inexpensive meals at restaurants (because the average American eats out 4 times a week)
+- apartment cost in city center for one bedroom
+- basic utilities such as electricity, cooling, water, garbage for 915 sq ft apartment
+- internet (speed 60 mbps or more)
 
 The second plot compares the monthly salary based off your inputted salary.
 
