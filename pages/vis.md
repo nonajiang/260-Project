@@ -8,9 +8,18 @@ permalink: /vis.html
 
 ## Visualizations and Analyses
 
-# Regression Analyses
+We took the liberty of conducting several analyses and create visualizations to help users with their job search.
 
-Variables predicting apartment
-Variables predicting salary
+### How does average salary relate with average living expenses in each city?
 
-# Word Cloud
+
+The plot shows a relationship that did not surprise us: the higher the living expenses, the higher the salary. This plot could be useful
+
+
+### What are the highest paying occupations in various cities?
+
+To answer this question and display it in a visually appealing way, we created several word clouds from professions that had salaries in the top 5th percentile. We did this first for all 50 cities and then for several cities to see if there are any differences between cities.
+
+
+
+
