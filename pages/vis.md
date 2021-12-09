@@ -31,9 +31,13 @@ We also built a Decision Tree to predict the average monthly net salary based on
 
 Our second focus is the apartment price in city center since it would best reflect the standard of living. When considering job offers, many people would prefer to live near the city center for convenience, and the price may deviate a lot in different cities.
 
+Here is a graphical representation of the average price of an apartment price in the city center of the 50 cities we looked at:
+
+![](/AptCenter.png)
 
 From our regression model, only "apartment prices out of city center" and "meal price for 2" have significant influence on the apartment price in city center. 
 
+![](/AptCenterRegression.png)
 
 The regression model shows following relationship:
 
@@ -42,9 +46,6 @@ The regression model shows following relationship:
 - For a $1 increase in the meal for two, the estimated price for apartment price in city center will increase 9.5 dollar on average, holding all other covariates constant
 
 We also used a machine learning method based on gradient boosting trees algorithm to predict apartment price in city center using variables of interest. The top two influential factors are **apartment price outside of the center and average monthly net salary**.
-
-As for the regression model and the machine learning model, the machine learning model is preferred because it automatically runs different combinations of the predicting variables and chooses the best. 
-
 
 ### What are the highest paying occupations in various cities?
 
