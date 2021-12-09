@@ -1,4 +1,3 @@
 # GitHub
 
-
-Links to GitHub repository and RMarkdown files will be on this page
+[GitHub repository](https://github.com/rindalafayyad17/260-Project)
