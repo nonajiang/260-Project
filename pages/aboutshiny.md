@@ -32,6 +32,7 @@ First, let's take look at Boston:
 You learn that the average salary across all professions in Boston $73,850. Your offer is looking not too shabby!
 
 Now, let's take look at Phoenix:
+
 ![But I mean can you really pass up this view?](/Arizona.jpeg){:width="500"}
 
 ![](/PhoenixAvgSalary.png){:width="700"}
