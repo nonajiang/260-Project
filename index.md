@@ -26,3 +26,8 @@ The primary objectives of our project are two-fold:
 ### Approach
 We first conducted web-scraping to extract the cost of living data from numbeo.com and average wages from the Bureau of Labor Statistics (BLS). We then performed regression analyses along with machine learning models and created several graphs and visuals to help answer our questions of what is the relationship between salary and living expenses across cities, which variables predict cost of an apartment and salary, and what high-paying jobs are (>95th percentile) in various cities. We then put this data together in a user-friendly shiny dashboard!
 
+### Screencast
+
+<video src="https://www.youtube.com/watch?v=VTJ67zxAn8Y" controls="controls">
+</video>
+
