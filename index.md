@@ -28,6 +28,5 @@ We first conducted web-scraping to extract the cost of living data from numbeo.c
 
 ### Screencast
 
-<video src="https://www.youtube.com/watch?v=VTJ67zxAn8Y" controls="controls">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VTJ67zxAn8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
