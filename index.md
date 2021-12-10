@@ -24,5 +24,5 @@ The primary objectives of our project are two-fold:
 2. To include [visualizations](https://nonajiang.github.io/Checks-and-Cities/vis.html) and analyses that will help to assess the salaries needed for the cost of living across our 50 cities
  
 ### Approach
-We first conducted web-scraping to extract the cost of living data from numbeo.com and average wages from the Bureau of Labor Statistics (BLS). We then performed regression analyses along with machine leaarning models and created several graphs and visuals to help answer our questions of what is the relationship between salary and living expenses across cities, which variables predict cost of an apartment and salary, and what high-paying jobs are (>95th percentile) in various cities. We then put this data together in a user-friendly shiny dashboard!
+We first conducted web-scraping to extract the cost of living data from numbeo.com and average wages from the Bureau of Labor Statistics (BLS). We then performed regression analyses along with machine learning models and created several graphs and visuals to help answer our questions of what is the relationship between salary and living expenses across cities, which variables predict cost of an apartment and salary, and what high-paying jobs are (>95th percentile) in various cities. We then put this data together in a user-friendly shiny dashboard!
 
