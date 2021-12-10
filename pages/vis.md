@@ -27,7 +27,7 @@ Are there particular variables that could tell us how much the average salary is
 
 We also built a Decision Tree to predict the average monthly net salary based on variables of interest. The tree suggested that the **price of an apartment outside of the center, the price of an apartment in the center, and the cost of the internet**, are the most important predictors in predicting the average monthly net salary.
 
-## What factors predict my cost of rent?
+### What factors predict my cost of rent?
 
 Our second focus is the apartment price in city center since it would best reflect the standard of living. When considering job offers, many people would prefer to live near the city center for convenience, and the price may deviate a lot in different cities.
 
