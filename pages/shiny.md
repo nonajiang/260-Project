@@ -8,4 +8,4 @@ permalink: /shiny.html
 
 ## Shiny App
 
-<iframe height="400" width="100%" frameborder="no" src="https://danielherrerahsph.shinyapps.io/saavy_salary/"> </iframe>
+<iframe height="600" width="100%" frameborder="no" src="https://danielherrerahsph.shinyapps.io/saavy_salary/"> </iframe>
